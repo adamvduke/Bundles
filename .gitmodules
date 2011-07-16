@@ -49,3 +49,6 @@
 [submodule "Textile.tmbundle"]
 	path = Textile.tmbundle
 	url = https://github.com/textmate/textile.tmbundle.git
+[submodule "XCode.tmbundle"]
+	path = XCode.tmbundle
+	url = https://github.com/textmate/xcode.tmbundle.git
