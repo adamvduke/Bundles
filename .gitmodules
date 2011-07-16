@@ -34,3 +34,6 @@
 [submodule "Python.tmbundle"]
 	path = Python.tmbundle
 	url = https://github.com/textmate/python.tmbundle.git
+[submodule "RegularExpressions.tmbundle"]
+	path = RegularExpressions.tmbundle
+	url = https://github.com/textmate/regularexpressions.tmbundle.git
