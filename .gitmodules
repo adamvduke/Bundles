@@ -1,3 +1,6 @@
 [submodule "C.tmbundle"]
 	path = C.tmbundle
 	url = https://github.com/textmate/c.tmbundle.git
+[submodule "CodeBeautifier.tmbundle"]
+	path = CodeBeautifier.tmbundle
+	url = https://github.com/mocoso/code-beautifier.tmbundle.git
