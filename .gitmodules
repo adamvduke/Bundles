@@ -4,3 +4,6 @@
 [submodule "CodeBeautifier.tmbundle"]
 	path = CodeBeautifier.tmbundle
 	url = https://github.com/mocoso/code-beautifier.tmbundle.git
+[submodule "Diff.tmbundle"]
+	path = Diff.tmbundle
+	url = https://github.com/textmate/diff.tmbundle.git
