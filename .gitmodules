@@ -16,3 +16,6 @@
 [submodule "Groovy.tmbundle"]
 	path = Groovy.tmbundle
 	url = https://github.com/textmate/groovy.tmbundle.git
+[submodule "html.tmbundle"]
+	path = html.tmbundle
+	url = https://github.com/textmate/html.tmbundle.git
