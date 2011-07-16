@@ -31,3 +31,6 @@
 [submodule "Objective-C.tmbundle"]
 	path = Objective-C.tmbundle
 	url = https://github.com/textmate/objective-c.tmbundle.git
+[submodule "Python.tmbundle"]
+	path = Python.tmbundle
+	url = https://github.com/textmate/python.tmbundle.git
