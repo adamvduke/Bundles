@@ -28,3 +28,6 @@
 [submodule "Markdown.tmbundle"]
 	path = Markdown.tmbundle
 	url = https://github.com/textmate/markdown.tmbundle.git
+[submodule "Objective-C.tmbundle"]
+	path = Objective-C.tmbundle
+	url = https://github.com/textmate/objective-c.tmbundle.git
