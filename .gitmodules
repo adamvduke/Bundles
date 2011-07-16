@@ -40,3 +40,6 @@
 [submodule "Ruby-Haml.tmbundle"]
 	path = Ruby-Haml.tmbundle
 	url = https://github.com/textmate/ruby-haml.tmbundle.git
+[submodule "Ruby-On-Rails.tmbundle"]
+	path = Ruby-On-Rails.tmbundle
+	url = https://github.com/textmate/ruby-on-rails.tmbundle.git
