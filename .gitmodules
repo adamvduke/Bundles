@@ -52,3 +52,6 @@
 [submodule "XCode.tmbundle"]
 	path = XCode.tmbundle
 	url = https://github.com/textmate/xcode.tmbundle.git
+[submodule "RSpec.tmbundle"]
+	path = RSpec.tmbundle
+	url = https://github.com/square/rspec-tmbundle.git
