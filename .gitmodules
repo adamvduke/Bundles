@@ -13,3 +13,6 @@
 [submodule "GitHub.tmbundle"]
 	path = GitHub.tmbundle
 	url = https://github.com/adamvduke/github-tmbundle.git
+[submodule "Groovy.tmbundle"]
+	path = Groovy.tmbundle
+	url = https://github.com/textmate/groovy.tmbundle.git
