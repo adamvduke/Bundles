@@ -19,3 +19,6 @@
 [submodule "html.tmbundle"]
 	path = html.tmbundle
 	url = https://github.com/textmate/html.tmbundle.git
+[submodule "Java.tmbundle"]
+	path = Java.tmbundle
+	url = https://github.com/textmate/java.tmbundle.git
