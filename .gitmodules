@@ -46,3 +46,6 @@
 [submodule "Ruby.tmbundle"]
 	path = Ruby.tmbundle
 	url = https://github.com/textmate/ruby.tmbundle.git
+[submodule "Textile.tmbundle"]
+	path = Textile.tmbundle
+	url = https://github.com/textmate/textile.tmbundle.git
